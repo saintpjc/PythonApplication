@@ -1,2 +1,3 @@
-print("file Ãß°¡");
+print("file ì‚­ì œ");
 print("TEST TEST ");
+print("TEST TEST2 ");
